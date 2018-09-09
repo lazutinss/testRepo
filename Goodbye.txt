@@ -1,2 +1,4 @@
 print('goodbye');
 print('goodbye serg');
+1
+2
