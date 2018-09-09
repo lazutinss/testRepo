@@ -1,8 +1,4 @@
-
 print(hello word;);
 print(hello word;);
 print(hello word;);
 print(hello my friend;);
-print(hello my friend);
-print(hello vala);
-
